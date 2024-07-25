@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/trip_website/static/css/main.9fe26f52.css",
+    "main.js": "/trip_website/static/js/main.6e58c63b.js",
+    "static/media/vd.mp4": "/trip_website/static/media/vd.2f49e9f9f8fed91d6738.mp4",
+    "static/media/Apartment2.jpg": "/trip_website/static/media/Apartment2.2c913cec823ced845013.jpg",
+    "static/media/Apartment1.jpg": "/trip_website/static/media/Apartment1.b98edc223080761b961b.jpg",
+    "static/media/Apartment4.jpg": "/trip_website/static/media/Apartment4.4e85f1f05286e59edc8c.jpg",
+    "static/media/bed3.jpg": "/trip_website/static/media/bed3.4883869aece8b54394e7.jpg",
+    "static/media/map.jpg": "/trip_website/static/media/map.19a4fd0ce8cd684fbf12.jpg",
+    "static/media/Apartment3.jpg": "/trip_website/static/media/Apartment3.1eb1b08b85f66ac5e795.jpg",
+    "static/media/apartment5.jpg": "/trip_website/static/media/apartment5.79ad8c1a9aaf2cb19b82.jpg",
+    "static/media/appartment-2.jpg": "/trip_website/static/media/appartment-2.3b115f5ebd332e36e475.jpg",
+    "static/media/mountain.jpg": "/trip_website/static/media/mountain.0af2a32330893703aab2.jpg",
+    "static/media/apaartm2.jpg": "/trip_website/static/media/apaartm2.324d796a752ef6d10a5c.jpg",
+    "static/media/homerent.jpg": "/trip_website/static/media/homerent.e2e8fc69e0be6c81c0dc.jpg",
+    "static/media/bed4.jpg": "/trip_website/static/media/bed4.71f2bae3cb8fc1dbbf48.jpg",
+    "static/media/climbing.jpg": "/trip_website/static/media/climbing.ed4baecdac5264055a62.jpg",
+    "static/media/bed2.jpg": "/trip_website/static/media/bed2.d11527a20d50802b2b01.jpg",
+    "static/media/appartment-8.jpg": "/trip_website/static/media/appartment-8.76885f730f7df1f58a8d.jpg",
+    "static/media/bed5.jpg": "/trip_website/static/media/bed5.987c56598295451b9c59.jpg",
+    "static/media/std.jpg": "/trip_website/static/media/std.e5fd44c6fbbb8e0727c1.jpg",
+    "index.html": "/trip_website/index.html",
+    "main.9fe26f52.css.map": "/trip_website/static/css/main.9fe26f52.css.map",
+    "main.6e58c63b.js.map": "/trip_website/static/js/main.6e58c63b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe26f52.css",
+    "static/js/main.6e58c63b.js"
+  ]
+}
